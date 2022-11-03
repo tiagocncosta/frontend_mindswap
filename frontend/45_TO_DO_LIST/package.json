@@ -1,9 +1,8 @@
 {
-  "name": "43_comments_and_likes",
+  "name": "45_to_do_list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"

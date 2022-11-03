@@ -1,0 +1,27 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#navBar {
+    display: flex;
+    background-color: rgb(255, 121, 19);
+    justify-content: space-between;
+}
+#leftSide {
+    display: flex;
+    gap: 10px;
+}
+
+#leftSide > a{
+    
+    font-size:13px;
+    padding-top: 3px;
+}
+.logo{
+    width: 15px;
+    border: 2px solid white;
+    margin: 2px;
+}
+
+.newsList{
+    background-color: rgb(241, 238, 238)
+}
